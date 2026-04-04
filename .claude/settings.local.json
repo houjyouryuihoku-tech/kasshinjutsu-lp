@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -o client/src/assets/hero-child.webp \"https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/hero-child-UyeZbYpytuf4GzNsivnzSH.webp\")",
+      "Bash(curl -o client/src/assets/hero-father.webp \"https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/hero-father-gbry9NejRjq3B7uUf5iN7u.webp\")",
+      "Bash(curl -o client/src/assets/hero-mother.webp \"https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/hero-mother-afmrSPyi6sJ2BjF9MTC6Mb.webp\")",
+      "Bash(git:*)"
+    ]
+  }
+}
