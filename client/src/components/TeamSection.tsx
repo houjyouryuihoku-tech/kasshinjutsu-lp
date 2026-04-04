@@ -19,7 +19,7 @@ interface Instructor {
 
 const instructors: Instructor[] = [
   {
-    name: "耳塚 誠",
+    area: '南箕輪村・箕輪町・辰野町',
     role: "1歳児パパ / 情熱のリーダー",
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-mimizuka-real_d98663cf.png",
@@ -37,7 +37,7 @@ const instructors: Instructor[] = [
       "3人の子を育て上げました。力任せではない『理（ことわり）』の技術で、本質的な強さを伝えます",
     area: "辰野町",
     accentColor: "#5B7B5E",
-  },
+    area: '南箕輪村',
   {
     name: "川島 正臣",
     role: "経験豊富な技術 / ベテラン指導員",
@@ -48,7 +48,7 @@ const instructors: Instructor[] = [
     accentColor: "#7B6EC4",
   },
   {
-    name: "鈴木 小夜",
+    area: '辰野町',
     role: "誠実な基礎指導 / 医師ママ",
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-suzuki-real_2cca8204.png",
