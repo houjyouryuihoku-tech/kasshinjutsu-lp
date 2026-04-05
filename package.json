@@ -9,8 +9,7 @@
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
-    "format": "prettier --write .",
-    "postbuild": "react-snap"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
@@ -98,17 +97,5 @@
     "overrides": {
       "tailwindcss>nanoid": "3.3.7"
     }
-  },
-  "reactSnap": {
-    "source": "dist/public",
-    "destination": "dist/public",
-    "include": [
-      "/"
-    ],
-    "puppeteerArgs": [
-      "--no-sandbox",
-      "--disable-setuid-sandbox"
-    ],
-    "inlineCss": false
   }
 }
