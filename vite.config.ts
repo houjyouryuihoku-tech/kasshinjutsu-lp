@@ -1,4 +1,4 @@
-import { sitemap } from 'vite-plugin-sitemap';
+import sitemap from 'vite-plugin-sitemap';
 import { jsxLocPlugin } from "@builder.io/vite-plugin-jsx-loc";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
