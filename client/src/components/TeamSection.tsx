@@ -19,8 +19,8 @@ interface Instructor {
 
 const instructors: Instructor[] = [
   {
-    area: '南箕輪村・箕輪町・辰野町',
-    role: "1歳児パパ / 情熱のリーダー",
+    name: '耳塚 誠',
+  area: '辰野町・箕輪町・南箕輪村',
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-mimizuka-real_d98663cf.png",
     quote:
