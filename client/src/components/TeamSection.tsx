@@ -35,9 +35,10 @@ const instructors: Instructor[] = [
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-aruga-real_cdc1b6cc.png",
     quote:
       "3人の子を育て上げました。力任せではない『理（ことわり）』の技術で、本質的な強さを伝えます",
-    area: "辰野町",
+    area: "南箕輪村",
     accentColor: "#5B7B5E",
     area: '南箕輪村',
+  {
     name: "川島 正臣",
     role: "経験豊富な技術 / ベテラン指導員",
     image: kawashimaImg,
