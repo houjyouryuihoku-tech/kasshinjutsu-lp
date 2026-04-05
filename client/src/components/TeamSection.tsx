@@ -21,11 +21,11 @@ const instructors: Instructor[] = [
   {
     name: '耳塚 誠',
   area: '辰野町・箕輪町・南箕輪村',
+    role: '1歳児パパ / 情熱のリーダー',
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-mimizuka-real_d98663cf.png",
     quote:
       "毎日悩みながら父親をやっています。育児の苦悩がわかるからこそ、ご家庭のライフスタイルを何より大切にします",
-    area: "南箕輪村",
     accentColor: "#E07C3A",
   },
   {
