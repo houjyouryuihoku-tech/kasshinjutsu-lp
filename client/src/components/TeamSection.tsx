@@ -38,7 +38,6 @@ const instructors: Instructor[] = [
     area: "辰野町",
     accentColor: "#5B7B5E",
     area: '南箕輪村',
-  {
     name: "川島 正臣",
     role: "経験豊富な技術 / ベテラン指導員",
     image: kawashimaImg,
