@@ -48,13 +48,13 @@ const instructors: Instructor[] = [
     accentColor: "#7B6EC4",
   },
   {
+    name: '鈴木 小夜',
     area: '辰野町',
     role: "誠実な基礎指導 / 医師ママ",
     image:
       "https://d2xsxph8kpxj0f.cloudfront.net/310519663357873617/DxdqmbcxcTUMAvyLhMFoRh/instructor-suzuki-real_2cca8204.png",
     quote:
       "医療者の冷静な視点と母の誠実さを大切にしています。武道の基礎を丁寧に伝え、お子様の確かな自信を育てます",
-    area: "辰野町、箕輪町、南箕輪村",
     accentColor: "#C4856B",
   },
   {
